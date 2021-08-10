@@ -27,7 +27,8 @@ export default function App() {
             width: '100%',
           }}
           options={{
-            roomId: "randomfox895678dc5d6",
+            serverUrl: "https://meet.jit.si",
+            roomId: "phanductest",
             chatEnabled: false,
             inviteEnabled: false,
             meetingNameEnabled: false,
